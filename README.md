@@ -14,6 +14,8 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 Download the dataset in .csv format and name it as 'creditcard.csv' and save it where 'card_fraud_revised.ipynb' file is cloned.
 
+'card_fraud.ipynb' is for reference only and contains work done previous to the 'card_fraud_revised.ipynb'. 
+
 ## Project Overview
 
 1- Exploratory Data Analysis - EDA
