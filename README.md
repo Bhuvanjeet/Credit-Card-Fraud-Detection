@@ -12,7 +12,7 @@ To Identify: - Fraudulent credit card transactions.
 
 https://www.kaggle.com/mlg-ulb/creditcardfraud
 
-Download the dataset in .csv format and name it as 'creditcard.csv' and save it where 'card_fraud.ipynb' file is cloned.
+Download the dataset in .csv format and name it as 'creditcard.csv' and save it where 'card_fraud_revised.ipynb' file is cloned.
 
 ## Project Overview
 
@@ -22,30 +22,22 @@ Download the dataset in .csv format and name it as 'creditcard.csv' and save it 
 
 3- Outliers Detection
 
-4- Data Pre-processing and Decomposition
+4- Inference from Data Visualization
 
-Logistic Regression on original data
+5- Data Pre-processing and Decomposition
 
+6- Resampling - SMOTEENN
 
-#### Resampling
+7- Machine Learning Algorithms on Resampled data:
 
-5- Undersampling - TomekLinks
+    1- Logistic Regression
 
-Logistic Regression on undersampled data
+    2- K Nearest Neighbors (KNN)
 
-6- Oversampling - SMOTE (Synthetic Minority Over-sampling Technique)
+    3- Random Forest Classifier
 
-Logisitc Regression on oversampled data
+    4- Naive Bayes Classifier
 
+    5- Deep Neural Network
 
-#### Using different Machine Learning Algorithms on Undersampled data:
-
-7- K Nearest Neighbors (KNN) Classifier
-
-8- Random Forest Classifier
-
-9- Naive Bayes Classifier
-
-10- Support Vector Machine (SVM)
-
-11- Results and Comparison
+8- Results and Comparison
